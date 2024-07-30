@@ -1,5 +1,5 @@
 # Nuxt 3 application
-Web application for managing tasks developed using nuxt 3 and tailwind css
+Web application for searching movies and films, with function to add them to favorites developed using nuxt 3 and tailwind css
 
 ## Setup instruction
 Clone the project by that URL: https://github.com/yat0o1/nuxt-cinema
